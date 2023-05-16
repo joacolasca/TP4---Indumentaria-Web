@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<a href='@Url.Action("SelectIndumentaria")'>Ir a seleccionar indumentaria</a>
+
+@if (ViewBag.EquiposIndumentaria != null)
+{
+    @foreach (var item in ViewBag.EquiposIndumentaria)
+    {
+        <h2>@item.Key</h2>
+        <img src="/ImagenesCamisetas/@item.Value.Camiseta" width="300">
+        <img src="/ImagenesShorts/@item.Value.Pantalon" width="300">
+        <img src="/ImagenesMedias/@item.Value.Medias" width="300">
+    }
+}

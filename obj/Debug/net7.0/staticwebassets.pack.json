@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP4.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesCamisetas\\camiseta alemania.webp",
+      "PackagePath": "staticwebassets\\ImagenesCamisetas\\camiseta alemania.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesCamisetas\\camiseta belgrano.webp",
+      "PackagePath": "staticwebassets\\ImagenesCamisetas\\camiseta belgrano.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesCamisetas\\camiseta brasil.webp",
+      "PackagePath": "staticwebassets\\ImagenesCamisetas\\camiseta brasil.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesCamisetas\\camiseta dorada.webp",
+      "PackagePath": "staticwebassets\\ImagenesCamisetas\\camiseta dorada.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesCamisetas\\camiseta naranja.webp",
+      "PackagePath": "staticwebassets\\ImagenesCamisetas\\camiseta naranja.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesCamisetas\\camiseta roja y blanca.webp",
+      "PackagePath": "staticwebassets\\ImagenesCamisetas\\camiseta roja y blanca.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesCamisetas\\camiseta seleccionArg.webp",
+      "PackagePath": "staticwebassets\\ImagenesCamisetas\\camiseta seleccionArg.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesCamisetas\\camiseta united.webp",
+      "PackagePath": "staticwebassets\\ImagenesCamisetas\\camiseta united.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesCamisetas\\camiseta uruguay.webp",
+      "PackagePath": "staticwebassets\\ImagenesCamisetas\\camiseta uruguay.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesCamisetas\\camiseta verde.webp",
+      "PackagePath": "staticwebassets\\ImagenesCamisetas\\camiseta verde.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesMedias\\Media amarilla.webp",
+      "PackagePath": "staticwebassets\\ImagenesMedias\\Media amarilla.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesMedias\\medias azules.webp",
+      "PackagePath": "staticwebassets\\ImagenesMedias\\medias azules.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesMedias\\medias blancas.jpg",
+      "PackagePath": "staticwebassets\\ImagenesMedias\\medias blancas.jpg"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesMedias\\medias fluor.jpg",
+      "PackagePath": "staticwebassets\\ImagenesMedias\\medias fluor.jpg"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesMedias\\medias grises.webp",
+      "PackagePath": "staticwebassets\\ImagenesMedias\\medias grises.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesMedias\\medias naranjas.webp",
+      "PackagePath": "staticwebassets\\ImagenesMedias\\medias naranjas.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesMedias\\medias negras.png",
+      "PackagePath": "staticwebassets\\ImagenesMedias\\medias negras.png"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesMedias\\medias rojas.webp",
+      "PackagePath": "staticwebassets\\ImagenesMedias\\medias rojas.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesMedias\\medias rosas.jpg",
+      "PackagePath": "staticwebassets\\ImagenesMedias\\medias rosas.jpg"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesMedias\\medias violeta.webp",
+      "PackagePath": "staticwebassets\\ImagenesMedias\\medias violeta.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesShorts\\short banfield.webp",
+      "PackagePath": "staticwebassets\\ImagenesShorts\\short banfield.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesShorts\\short brazil.webp",
+      "PackagePath": "staticwebassets\\ImagenesShorts\\short brazil.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesShorts\\short chacarita.webp",
+      "PackagePath": "staticwebassets\\ImagenesShorts\\short chacarita.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesShorts\\short colon.webp",
+      "PackagePath": "staticwebassets\\ImagenesShorts\\short colon.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesShorts\\short estudiantes.webp",
+      "PackagePath": "staticwebassets\\ImagenesShorts\\short estudiantes.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesShorts\\short multicolor.webp",
+      "PackagePath": "staticwebassets\\ImagenesShorts\\short multicolor.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesShorts\\short napoli.webp",
+      "PackagePath": "staticwebassets\\ImagenesShorts\\short napoli.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesShorts\\short negro.webp",
+      "PackagePath": "staticwebassets\\ImagenesShorts\\short negro.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesShorts\\short verde.webp",
+      "PackagePath": "staticwebassets\\ImagenesShorts\\short verde.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\ImagenesShorts\\short violeta.webp",
+      "PackagePath": "staticwebassets\\ImagenesShorts\\short violeta.webp"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion 2023\\TP4 - Indumentaria Web\\TP4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TP4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TP4.props",
+      "PackagePath": "build\\TP4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TP4.props",
+      "PackagePath": "buildMultiTargeting\\TP4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TP4.props",
+      "PackagePath": "buildTransitive\\TP4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,45 @@
+@{
+    ViewData["Title"] = "Seleccionar indumentaria";
+    int cont = 1, cont2 = 1, cont3 = 1, cont4 = 1;
+}
+<form action='@Url.Action("GuardarIndumentaria")'>
+    <h1>EQUIPOS:</h1>
+    <table>
+    <tr>
+    @foreach (var item in ViewBag.ListaEquipos)
+    {
+        <th><p>Equipo @cont: @item </p></th>
+        cont++;
+    }
+    <th><input type="number" name="Equipo"min="1" max="10"></th>
+    </tr>
+    <tr>
+    @foreach (var fotoRemera in ViewBag.ListaRemeras)
+    {
+        <th><p>Camiseta @cont2: <img src="/ImagenesCamisetas/@fotoRemera" alt="" width="150"></p></th>
+        cont2++;
+    }
+    <th><input type="number" name="Remera"min="1" max="10"></th>
+    </tr>
+<tr>
+@foreach (var fotoPantalon in ViewBag.ListaPantalones)
+{
+    <th> <p> Pantalon @cont3: <img src="/ImagenesShorts/@fotoPantalon" alt="" width="150"></p></th>
+    cont3++;
+}
+<th><input type="number"name="Pantalon"min="1" max="10"></th>
+</tr>
+
+<tr>
+@foreach (var fotoMedia in ViewBag.ListaMedias)
+{
+    <th><p> Media @cont4: <img src="/ImagenesMedias/@fotoMedia" alt="" width="150"></p></th>
+    cont4++;
+}
+<th><input type="number" name="Media"min="1" max="10"></th>
+</tr>
+</table>
+
+
+<p><input type="submit" value="Enviar datos"></p>
+</form>
